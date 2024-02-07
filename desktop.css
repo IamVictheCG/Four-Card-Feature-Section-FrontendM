@@ -1,0 +1,24 @@
+@media (min-width: 664px) {
+  .main_div {
+    width: 100%;
+    width: 80%;
+  }
+  .main_div header {
+    width: 50%;
+    margin: auto;
+  }
+  .main_div .mid_main {
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+  }
+  .main_div .mid_main .blocks {
+    width: 30.96%;
+  }
+  .main_div .mid_main .group {
+    width: 30.96%;
+  }
+  .main_div .mid_main .group div {
+    width: 100%;
+  }
+}/*# sourceMappingURL=desktop.css.map */

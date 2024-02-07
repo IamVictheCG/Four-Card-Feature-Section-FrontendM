@@ -1,0 +1,34 @@
+@media (min-width: 664px) {
+    .main_div {
+        width: 100%;
+        // border: 2px solid darkblue;
+        width: 80%;
+
+        header {
+            // border: 2px solid darkblue;
+            width: 50%;
+            margin: auto;
+        }
+        
+        
+        .mid_main {
+            // border: 2px solid rgb(255, 174, 0);
+            width: 100%;
+            flex-direction: row;
+            align-items: center;
+            
+            .blocks {
+                // border: 2px solid rgb(15, 78, 250);
+                width:30.960%;
+            }
+            .group {
+                // border: 2px solid rgb(15, 78, 250);
+                width:30.96%;
+                
+                div {
+                    width: 100%;
+                }
+            }
+        }
+    }
+}
